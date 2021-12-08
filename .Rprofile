@@ -7,6 +7,8 @@
 # are a few sample options; for more options, see
 # https://bookdown.org/yihui/blogdown/global-options.html
 
+options(blogdown.hugo.version = "0.81.0")
+
 options(
   # to automatically serve the site on RStudio startup, set this option to TRUE
   blogdown.serve_site.startup = FALSE,

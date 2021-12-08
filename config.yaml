@@ -1,6 +1,6 @@
 theme: starter-academic
 title: Academic
-baseurl: 'https://jessicayu.netlify.app'
+baseurl: 'https://jessicayu.netlify.app/'
 copyright: ''
 enableGitInfo: no
 defaultContentLanguage: en
