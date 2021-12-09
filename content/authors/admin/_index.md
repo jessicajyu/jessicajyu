@@ -33,13 +33,6 @@ social:
 superuser: true
 title: Jessica Yu
 ---
-
-<<<<<<< HEAD
-Jessica Yu is a secondary school teacher in Quebec. Her interests include coaching, hiking, and relationships. She leads the Town and Gown Toastmasters club, which helps leaders connect. 
-=======
-Jessica Yu is a teacher for secondary students in Quebec. Her interests include nutrition, coaching, and public speaking. She leads the Town and Gown Toastmasters club, which works to develop leaders who connect.
-
-
->>>>>>> 0b13e7998b70fbb16024ea0edafd2b5a4ecc1de4
+Jessica Yu is a secondary school teacher in Quebec. Her interests include nutrition, coaching, and relationships. She leads the Town and Gown Toastmasters club, which helps leaders connect. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
