@@ -1,10 +1,16 @@
 ---
 bio: Jessica Yu is a secondary school teacher in Quebec. Her interests include coaching, hiking, and relationships. She leads the Town and Gown Toastmasters club, which helps leaders connect. 
-education:
+education: 
   courses:
-  - course: MSc in Human Health and Nutritional Sciences institution: University of Guelph year: 2021
-  - course: BSc in Nutrition and Nutraceutical Sciences institution: University of Guelph year: 2019
-  - course: Study Abroad institution: University of Copehagen year: 2018
+  - course: MSc in Human Health and Nutritional Sciences
+    institution: University of Guelph
+    year: 2021
+  - course: BSc in Nutrition and Nutraceutical Sciences
+    institution: University of Guelph
+    year: 2019
+  - course: Study Abroad
+    institution: University of Copenhagen
+    year: 2018
 email: ""
 highlight_name: false
 interests:
