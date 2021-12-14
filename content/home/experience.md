@@ -22,24 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: English and Substitute Teacher
+    company: 
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Valcourt, Quebec
+    date_start: '2021-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
+        * Manages classroom behaviour, interprets lessons plans, communicates lesson outcome to regular teacher 
+        * Develops and leads language activities for 250 secondary students in a classroom setting
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Patient Educator
+    company: Canadian Centre for Refugee and Immigrant Healthcare
+    company_url: 'https://www.healthequity.ca/'
+    location: Scarborough, Canada
+    date_start: '2016-06-01'
+    date_end: '2016-08-31'
+    description: Researched, designed, and produced informational pamphlets communicating diabetes and mental health resources (in-person and online) available to uninsured individuals in Toronto.
 ---
