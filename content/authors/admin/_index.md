@@ -11,7 +11,7 @@ education:
   - course: Study Abroad
     institution: University of Copenhagen
     year: 2018
-email: ""
+email: "coachjessicayu@gmail.com"
 highlight_name: false
 interests:
 - Teaching
@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: Centre de services scolaire des Sommets
   url: https://www.cssds.gouv.qc.ca/
-role: Teacher
+role: Educator and Explorer
 social:
 - icon: envelope
   icon_pack: fas
