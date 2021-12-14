@@ -1,4 +1,5 @@
 ---
+active: true
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
@@ -19,11 +20,11 @@ feature:
 - description: 90%
   icon: r-project
   icon_pack: fab
-  name: R
+  name: Communication
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Knowledge Translation
 - description: 10%
   icon: camera-retro
   icon_pack: fas
