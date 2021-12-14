@@ -8,18 +8,17 @@ image:
   focal_point: ""
 lastMod: "2019-09-05T00:00:00Z"
 projects: []
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
+subtitle: 10 Steps to adult friendship
+summary: 10 Steps to adult friendship
 tags: []
-title: Display Jupyter Notebooks with Academic
+title: Just moved? Relationship pandemic survival guide
 ---
 
 ```python
 from IPython.core.display import Image
 Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
 ```
-
-
+![Photo of car by Mike Von] (https://images.unsplash.com/photo-1639060610258-d51aef6e51a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3174&q=80)
 
 
 ![png](./index_1_0.png)
