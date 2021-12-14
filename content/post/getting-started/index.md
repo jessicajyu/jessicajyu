@@ -1,33 +1,28 @@
 ---
 authors:
 - admin
-- 吳恩達
 categories:
-- Demo
-- 教程
-date: "2020-12-13T00:00:00Z"
-draft: false
+- Relationships
+date: "2021-12-09T00:00:00Z"
+draft: true
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/nQksYvlKxCo)'
   focal_point: ""
   placement: 2
   preview_only: false
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2021-12-09T00:00:00Z"
 projects: []
-subtitle: "Welcome \U0001F44B We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar with
-  everything in no time."
-summary: "Welcome \U0001F44B We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar with
-  everything in no time."
+subtitle: "Welcome \U0001F44B I know that moving is difficult. Here's my own story of moving for work."
+summary: "Welcome \U0001F44B I know that moving is difficult. Here's my own story of moving for work."
 tags:
-- Academic
-- 开源
-title: Welcome to Wowchemy, the website builder for Hugo
+- Moving
+title: Moving to Quebec
 ---
 
-## Overview
+## My Move 
+Fresh out university, I came to Quebec following work. I had been offered a job teaching English to secondary students and the role promised novelty, growth, and the opportunity to learn French.
+
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
