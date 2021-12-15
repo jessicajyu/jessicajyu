@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: English and Substitute Teacher
-    company: 
-    company_url: ''
-    location: Valcourt, Quebec
+    company: Centre de services scolaire des Sommets
+    company_url: 'https://www.cssds.gouv.qc.ca/'
+    location: Magog, Quebec
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
@@ -40,4 +40,22 @@ experience:
     date_start: '2016-06-01'
     date_end: '2016-08-31'
     description: Researched, designed, and produced informational pamphlets communicating diabetes and mental health resources (in-person and online) available to uninsured individuals in Toronto.
+    
+  - title: Masters Student and Teaching Assistaant 
+    company: University of Guelph
+    company_url: 'https://www.uoguelph.ca/'
+    location: Guelph, Canada
+    date_start: '2019-09-01'
+    date_end: '2021-08-31'
+    description: |2-
+        Responsibilities include:
+        * Thesis: Snack and Beverage Sources of Free Sugar in Canadian Preschool-aged
+        * Determined the sources of sugar in young children’s diets by leveraging a research group of 300 families (Guelph Family Health Study). Paper to be published. PI: Dr. David W.L. Ma
+        * 1st Place MSc 2021 Thesis Contest
+        * Planned and executed data collection and analysis
+        * Lead projects to produce infographics, posters, presentations, and manuscripts
+        * Competent in dietary analysis (ESHA and ASA24) and statistical software (Microsoft Suite and SAS)
+        * Teaching Assistant: Led human biology disease seminars for 180 students, graded assignments, and held office hours. Known for maturity, enthusiasm, and teaching techniques 
+
+
 ---
