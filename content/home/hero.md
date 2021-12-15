@@ -19,7 +19,7 @@ design:
     gradient_start: '#004ba0'
     text_color_light: true
 advanced:
-  css_class:
+  css_class: 
 
 ---
 
