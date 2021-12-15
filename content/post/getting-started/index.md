@@ -17,10 +17,11 @@ subtitle: "Welcome \U0001F44B I know that moving is difficult. Here's my own sto
 summary: "Welcome \U0001F44B I know that moving is difficult. Here's my own story of moving for work."
 tags:
 - Moving
-title: Moving to Quebec
+title: Moving and Relationships
 ---
 
 ## My Move 
+
 Fresh out university, I came to Quebec following work. I had been offered a job teaching English to secondary students and the role promised novelty, growth, and the opportunity to learn French.
 
 
