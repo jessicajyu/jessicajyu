@@ -1,5 +1,5 @@
 ---
-bio: Jessica Yu is a secondary school teacher in Quebec. Her interests include coaching, hiking, and relationships. She leads the Town and Gown Toastmasters club, which helps leaders connect. 
+bio: Jessica Yu is a secondary school teacher in Quebec. Her interests include coaching, hiking, and relationships. She leads the Town and Gown Toastmasters Club, whose mission is to train skilled leaders.
 education: 
   courses:
   - course: MSc in Human Health and Nutritional Sciences
