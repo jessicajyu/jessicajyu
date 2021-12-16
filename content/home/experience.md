@@ -41,7 +41,7 @@ experience:
     date_end: '2016-08-31'
     description: Researched, designed, and produced informational pamphlets communicating diabetes and mental health resources (in-person and online) available to uninsured individuals in Toronto.
     
-  - title: Masters Student and Teaching Assistaant 
+  - title: Masters Student and Teaching Assistant 
     company: University of Guelph
     company_url: 'https://www.uoguelph.ca/'
     location: Guelph, Canada
