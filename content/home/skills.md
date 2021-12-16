@@ -26,9 +26,9 @@ feature:
   icon_pack: fas
   name: Knowledge Translation
 - description: 10%
-  icon: camera-retro
+  icon: cookie-bite
   icon_pack: fas
-  name: Photography
+  name: Sensory Panelist
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
