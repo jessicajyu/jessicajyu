@@ -14,9 +14,9 @@ education:
 email: "coachjessicayu@gmail.com"
 highlight_name: false
 interests:
-- Teaching
+- Education
 - Nutrition
-- Connection
+- Yoga and Meditation Instructor
 organizations:
 - name: Centre de services scolaire des Sommets
   url: https://www.cssds.gouv.qc.ca/
@@ -31,6 +31,6 @@ social:
 superuser: true
 title: Jessica Yu
 ---
-Jessica Yu is a secondary school teacher in Quebec. Her interests include nutrition, coaching, and relationships. She leads the Town and Gown Toastmasters club, which helps leaders connect. 
+Jessica Yu is a secondary school teacher in Quebec. Her interests include nutrition, coaching, and relationships. She leads the Town and Gown Toastmasters club, which helps leaders connect. In her free time, Jessica can be found hiking, tasting new foods and working on her website. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
