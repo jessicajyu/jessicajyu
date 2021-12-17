@@ -29,33 +29,39 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
         * Manages classroom behaviour, interprets lessons plans, communicates lesson outcome to regular teacher 
         * Develops and leads language activities for 250 secondary students in a classroom setting
-        
-  - title: Patient Educator
-    company: Canadian Centre for Refugee and Immigrant Healthcare
-    company_url: 'https://www.healthequity.ca/'
-    location: Scarborough, Canada
-    date_start: '2016-06-01'
-    date_end: '2016-08-31'
-    description: Researched, designed, and produced informational pamphlets communicating diabetes and mental health resources (in-person and online) available to uninsured individuals in Toronto.
     
-  - title: Masters Student and Teaching Assistant 
+  - title: Masters Student, Teaching Assistant and Sensory Panelist
     company: University of Guelph
     company_url: 'https://www.uoguelph.ca/'
     location: Guelph, Canada
     date_start: '2019-09-01'
     date_end: '2021-08-31'
     description: |2-
-        Responsibilities include:
-        * Thesis: Snack and Beverage Sources of Free Sugar in Canadian Preschool-aged
+      * **Thesis: Snack and Beverage Sources of Free Sugar in Canadian Preschool-aged Children**
         * Determined the sources of sugar in young children’s diets by leveraging a research group of 300 families (Guelph Family Health Study). Paper to be published. PI: Dr. David W.L. Ma
         * 1st Place MSc 2021 Thesis Contest
         * Planned and executed data collection and analysis
         * Lead projects to produce infographics, posters, presentations, and manuscripts
         * Competent in dietary analysis (ESHA and ASA24) and statistical software (Microsoft Suite and SAS)
-        * Teaching Assistant: Led human biology disease seminars for 180 students, graded assignments, and held office hours. Known for maturity, enthusiasm, and teaching techniques 
+      * **Teaching Assistant**: Led human biology disease seminars for 180 students, graded assignments, and held office hours. Known for maturity, enthusiasm, and teaching techniques 
+      * **Sensory Panelist**: Assessed characteristics including tenderness, juiciness, beef aroma, and putridness of beef in a trained sensory panel
+#  - title: Trained Sensory Panelist
+#    company: University of Guelph
+#    company_url: 'https://www.uoguelph.ca/'
+#    location: Guelph, Canada
+#    date_start: '2019-10-01'
+#    date_end: '2020-05-31'
+#    description: Assessed characteristics including tenderness, juiciness, beef aroma, and putridness of beef
 
-
+  - title: Patient Educator
+    company: Canadian Centre for Refugee and Immigrant Healthcare
+    company_url: 'https://www.healthequity.ca/'
+    location: Scarborough, Canada
+    date_start: '2016-06-01'
+    date_end: '2016-08-31'
+    description: |2-
+      * Researched, designed, and produced informational pamphlets communicating diabetes and mental health resources (in-person and online) available to uninsured individuals in Toronto
+    
 ---
