@@ -46,7 +46,7 @@ experience:
         * Lead projects to produce infographics, posters, presentations, and manuscripts
         * Competent in dietary analysis (ESHA and ASA24) and statistical software (Microsoft Suite and SAS)
       * **Teaching Assistant**: Led human biology disease seminars for 180 students, graded assignments, and held office hours. Known for maturity, enthusiasm, and teaching techniques 
-      * **Sensory Panelist**: Assessed characteristics including tenderness, juiciness, beef aroma, and putridness of beef in a trained sensory panel
+      * **Trained Sensory Panelist**: Assessed characteristics including tenderness, juiciness, beef aroma, and putridness of beef in a trained sensory panel
 #  - title: Trained Sensory Panelist
 #    company: University of Guelph
 #    company_url: 'https://www.uoguelph.ca/'
