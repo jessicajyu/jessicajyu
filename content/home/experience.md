@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: English and Substitute Teacher
+  - title: Substitute Teacher and English Language Assistant
     company: Centre de services scolaire des Sommets
     company_url: 'https://www.cssds.gouv.qc.ca/'
     location: Magog, Quebec
@@ -30,7 +30,7 @@ experience:
     date_end: ''
     description: |2-
         * Manages classroom behaviour, interprets lessons plans, communicates lesson outcome to regular teacher 
-        * Develops and leads language activities for 250 secondary students in a classroom setting
+        * Develops and leads language activities for 250 secondary students
     
   - title: Masters Student, Teaching Assistant and Sensory Panelist
     company: University of Guelph
