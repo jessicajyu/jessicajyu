@@ -17,18 +17,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 
   icon: bolt
   icon_pack: fas
   name: Communication
-- description: 100%
-  icon: bicycle
+- description: 
+  icon: search
   icon_pack: fas
-  name: Knowledge Translation
-- description: 10%
+  name: Research
+- description: 
   icon: cookie-bite
   icon_pack: fas
-  name: Sensory Panelist
+  name: Nutrition
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
