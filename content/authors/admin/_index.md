@@ -1,5 +1,5 @@
 ---
-bio: Jessica Yu is a supply teacher for secondary students in Quebec. Her interests include food and nutrition, learning and relationships. She leads the [Town and Gown Toastmasters](https://www.townandgowntoastmasters.com/) club, whose mission is to train skilled communicators. In her free time, Jessica can be found hiking, tasting new foods, and upgrading her R and Excel Skills.
+bio: Jessica Yu is a secondary student teacher in Quebec. Her interests include food & nutrition, learning and relationships. She leads the [Town and Gown Toastmasters](https://www.townandgowntoastmasters.com/) club, whose mission is to train skilled communicators. In her free time, Jessica can be found hiking, tasting new foods, and upgrading her R and Excel Skills.
 education: 
   courses:
   - course: MSc in Human Health and Nutritional Sciences
