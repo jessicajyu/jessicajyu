@@ -1,5 +1,5 @@
 ---
-bio: Jessica Yu is a secondary student teacher in Quebec. Her interests include food & nutrition and relationships. She leads the [Town and Gown Toastmasters](https://www.townandgowntoastmasters.com/) club, whose mission is to train skilled communicators. In her free time, Jessica can be found hiking, tasting new foods, and upgrading her R and Excel Skills.
+bio: Jessica Yu is a secondary student teacher in Quebec. Her interests include sustainability, food & nutrition and relationships. She leads the [Town and Gown Toastmasters](https://www.townandgowntoastmasters.com/) club, whose mission is to train skilled communicators. In her free time, Jessica can be found hiking, tasting new foods, and upgrading her R and Excel Skills. No brand new clothes (except undergarments) since 2016.
 education: 
   courses:
   - course: MSc in Human Health and Nutritional Sciences
@@ -14,6 +14,7 @@ education:
 email: "coachjessicayu@gmail.com"
 highlight_name: false
 interests:
+- Sustainability
 - Food and Nutrition
 - Relationships
 organizations:
@@ -30,6 +31,6 @@ social:
 superuser: true
 title: Jessica Yu
 ---
-Jessica Yu is a secondary school teacher in Quebec. Her interests include food & nutrition and relationships. She leads the [Town and Gown Toastmasters](https://www.townandgowntoastmasters.com/) club, whose mission is to train skilled communicators. In her free time, Jessica can be found hiking, tasting new foods, and upgrading her R and Excel Skills.
+Jessica Yu is a secondary school teacher in Quebec. Her interests include sustainability, food & nutrition, and relationships. She leads the [Town and Gown Toastmasters](https://www.townandgowntoastmasters.com/) club, whose mission is to train skilled communicators. In her free time, Jessica can be found hiking, tasting new foods, and upgrading her R and Excel Skills. No brand new clothes (except undergarments) since 2016.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/jessica_yu_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
