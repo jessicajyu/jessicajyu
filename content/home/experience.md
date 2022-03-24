@@ -29,8 +29,9 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
+        * Employee review commended organized activities that add a rich cultural perspective, punctuality, and ability to quickly make connections with students and colleagues
+        * Developed and lead over 100 activities for 250 secondary students from 12 to 18 years of age
         * Manages classroom behaviour, interprets lessons plans, communicates lesson outcome to regular teacher 
-        * Develops and leads language activities for 250 secondary students
     
   - title: Masters Student, Teaching Assistant and Sensory Panelist
     company: University of Guelph
@@ -40,10 +41,10 @@ experience:
     date_end: '2021-08-31'
     description: |2-
       * **Thesis: Snack and Beverage Sources of Free Sugar in Canadian Preschool-aged Children**
-        * Determined the sources of sugar in young children’s diets by leveraging a research group of 300 families (Guelph Family Health Study). Paper to be published. PI: Dr. David W.L. Ma
+        * Determined the sources of sugar in young children’s diets by leveraging a research group of 300 families (Guelph Family Health Study). PI: Dr. David W.L. Ma
         * 1st Place MSc 2021 Thesis Contest
         * Planned and executed data collection and analysis
-        * Lead projects to produce infographics, posters, presentations, and manuscripts
+        * Led projects to produce infographics, posters, presentations, and manuscripts
         * Competent in dietary analysis (ESHA and ASA24) and statistical software (Microsoft Suite and SAS)
       * **Teaching Assistant**: Led human biology disease seminars for 180 students, graded assignments, and held office hours. Known for maturity, enthusiasm, and teaching techniques 
       * **Trained Sensory Panelist**: Assessed characteristics including tenderness, juiciness, beef aroma, and putridness of beef in a trained sensory panel
@@ -62,6 +63,6 @@ experience:
     date_start: '2016-06-01'
     date_end: '2016-08-31'
     description: |2-
-      * Researched, designed, and produced informational pamphlets communicating diabetes and mental health resources (in-person and online) available to uninsured individuals in Toronto
+      * Researched, designed, and produced informational pamphlets communicating diabetes and mental health resources available to uninsured individuals in Toronto
     
 ---
