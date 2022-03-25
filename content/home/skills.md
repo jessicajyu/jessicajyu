@@ -26,7 +26,7 @@ feature:
   icon_pack: fas
   name: Research
 - description: 
-  icon: cookie-bite
+  icon: carrot
   icon_pack: fas
   name: Nutrition
 
